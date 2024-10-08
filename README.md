@@ -4,8 +4,6 @@ GenAge Nexus conveys a cutting-edge model that integrates gender and age detecti
 
 ## Key Features
 
-- Key Features
-
 - **Accurate Age and Gender Prediction**: Leverages cutting-edge models to provide high accuracy in age and gender classification.
 - **Customizable Model Training**: Easily train the model on your dataset with adjustable parameters to improve performance for specific use cases.
 - **Real-time Detection**: Supports real-time analysis for applications in surveillance, marketing, and user interaction.
