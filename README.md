@@ -2,6 +2,17 @@
 
 GenAge Nexus conveys a cutting-edge model that integrates gender and age detection, emphasizing the interrelationship between these two aspects in a seamless and innovative way. It has a modern and tech-savvy feel!
 
+## Key Features
+
+- Key Features
+
+- **Accurate Age and Gender Prediction**: Leverages cutting-edge models to provide high accuracy in age and gender classification.
+- **Customizable Model Training**: Easily train the model on your dataset with adjustable parameters to improve performance for specific use cases.
+- **Real-time Detection**: Supports real-time analysis for applications in surveillance, marketing, and user interaction.
+- **Pre-trained Models**: Includes access to pre-trained models for immediate use, reducing setup time.
+- **User-friendly Interface**: Simple API for seamless integration into existing projects.
+
+
 ## Installation
 
 Clone the repository:
